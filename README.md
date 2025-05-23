@@ -4,7 +4,7 @@ A Selenium-based web scraper to extract project and promoter details from the Od
 
 ### 1. Required Python Packages
 
--> pip install selenium
+-> pip install selenium webdriver-manager
 
 You'll also need:
 Google Chrome installed
