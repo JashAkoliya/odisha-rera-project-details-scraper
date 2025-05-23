@@ -4,7 +4,7 @@ A Selenium-based web scraper to extract project and promoter details from the Od
 
 ### 1. Required Python Packages
 
-pip install selenium
+-> pip install selenium
 
 You'll also need:
 Google Chrome installed
@@ -12,4 +12,4 @@ ChromeDriver (version must match your browser) — and added to system PATH
 
 ### Run the Script
 
-python rera_scraper.py
+-> python rera_scraper.py
